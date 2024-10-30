@@ -1,0 +1,26 @@
+
+.container {
+  background-color: #ffc2a0;
+  font-family: Roboto;
+  height: 100vh;
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.card {
+  background-color: #ffffff;
+  border-radius: 15px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 95vw;
+}
+
+.head {
+  color: #ff8542;
+  font-size: 40px;
+}
